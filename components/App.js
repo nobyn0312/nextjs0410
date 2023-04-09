@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/container.module.css'
+import styles from '../styles/container2.module.css'
 
 const App = () => {
   return (
